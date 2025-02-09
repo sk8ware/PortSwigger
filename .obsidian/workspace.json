@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "04ead913a67cf947",
+    "type": "split",
+    "children": [
+      {
+        "id": "538f5465ff552b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2952e6ea4874929",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "60a558bebda698a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File path traversal, validation of file extension with null byte bypass"
+            }
+          },
+          {
+            "id": "15f45075bfcaeff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSRF (Server-side- Request Forgery/SSRF with filter bypass via open redirection vulnerability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSRF with filter bypass via open redirection vulnerability"
+            }
+          },
+          {
+            "id": "25596505274de413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File path traversal, traversal sequences stripped with superfluous URL-decode"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f2fb50fade889a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e982535afa75f950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2abd92819f6ad79b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b10437ec152b16fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a277f990dceba31e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e11a5d743ab7445",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a12094cd6c19520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61b7f1c1722b452",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de File path traversal, validation of file extension with null byte bypass"
+            }
+          },
+          {
+            "id": "2cdb708f2f6fc091",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de File path traversal, validation of file extension with null byte bypass"
+            }
+          },
+          {
+            "id": "d008418b413b28e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "aac480242492393e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Path travesal/File path traversal, validation of file extension with null byte bypass.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de File path traversal, validation of file extension with null byte bypass"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "2abd92819f6ad79b",
+  "lastOpenFiles": [
+    "Path travesal/File path traversal, traversal sequences stripped non-recursively.md",
+    "XML external entity (XXE) injection/Exploiting XXE to perform SSRF attacks.md",
+    "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
+    "SSRF (Server-side- Request Forgery/Basic SSRF against the local server.md",
+    "SSRF (Server-side- Request Forgery/SSRF with filter bypass via open redirection vulnerability.md",
+    "SSRF (Server-side- Request Forgery/SSRF with blacklist-based input filter.md",
+    "IMAGES/Pasted image 20250128215953.png",
+    "XML external entity (XXE) injection/XML External Entity (XXE) Injection.md",
+    "IMAGES/Pasted image 20250127224126.png",
+    "IMAGES/Pasted image 20250127225901.png",
+    "SSRF (Server-side- Request Forgery/Blind SSRF with out-of-band detection.md",
+    "XML external entity (XXE) injection",
+    "IMAGES/Pasted image 20241219121148.png",
+    "IMAGES/Pasted image 20241219121104.png",
+    "IMAGES/Pasted image 20241219120745.png",
+    "IMAGES/Pasted image 20241219120424.png",
+    "IMAGES/Pasted image 20241219115926.png",
+    "IMAGES/Pasted image 20241219115538.png",
+    "Pasted image 20241219115459.png",
+    "IMAGES",
+    "SSRF (Server-side- Request Forgery/Basic SSRF against another back-end system.md",
+    "SSRF (Server-side- Request Forgery",
+    "Path travesal/File path traversal, validation of start of path.md",
+    "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "Path travesal",
+    "Bienvenido.md"
+  ]
+}
