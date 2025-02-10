@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+                "file": "XSS/DOM XSS en document.write usando location.search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File path traversal, traversal sequences stripped with superfluous URL-decode"
+              "title": "DOM XSS en document.write usando location.search"
             }
           }
         ],
@@ -203,8 +203,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2abd92819f6ad79b",
+  "active": "25596505274de413",
   "lastOpenFiles": [
+    "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "XSS/DOM XSS en document.write usando location.search.md",
+    "XSS",
     "Path travesal/File path traversal, traversal sequences stripped non-recursively.md",
     "XML external entity (XXE) injection/Exploiting XXE to perform SSRF attacks.md",
     "Path travesal/File path traversal, validation of file extension with null byte bypass.md",
@@ -228,7 +231,6 @@
     "SSRF (Server-side- Request Forgery/Basic SSRF against another back-end system.md",
     "SSRF (Server-side- Request Forgery",
     "Path travesal/File path traversal, validation of start of path.md",
-    "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
     "Path travesal",
     "Bienvenido.md"
   ]
