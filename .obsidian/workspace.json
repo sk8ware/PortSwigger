@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XSS/DOM XSS en innerHTML usando location.search.md",
+                "file": "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM XSS en innerHTML usando location.search"
+              "title": "DOM XSS in jQuery selector sink using a hashchange event"
             }
           }
         ],
@@ -205,8 +205,10 @@
   },
   "active": "25596505274de413",
   "lastOpenFiles": [
-    "XSS/DOM XSS en document.write usando location.search.md",
+    "XSS/DOM XSS in jQuery anchor href attribute sink using location.search source.md",
+    "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
     "XSS/DOM XSS en innerHTML usando location.search.md",
+    "XSS/DOM XSS en document.write usando location.search.md",
     "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
     "XSS",
     "Path travesal/File path traversal, traversal sequences stripped non-recursively.md",
