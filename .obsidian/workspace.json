@@ -51,16 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
+                "file": "XSS/Reflected XSS into attribute with angle brackets HTML-encoded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM XSS in jQuery selector sink using a hashchange event"
+              "title": "Reflected XSS into attribute with angle brackets HTML-encoded"
+            }
+          },
+          {
+            "id": "913a406e480b9ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,10 +217,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "25596505274de413",
+  "active": "913a406e480b9ede",
   "lastOpenFiles": [
-    "XSS/DOM XSS in jQuery anchor href attribute sink using location.search source.md",
+    "XSS/Reflected XSS into attribute with angle brackets HTML-encoded.md",
+    "README.md",
     "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
+    "XSS/DOM XSS in jQuery anchor href attribute sink using location.search source.md",
     "XSS/DOM XSS en innerHTML usando location.search.md",
     "XSS/DOM XSS en document.write usando location.search.md",
     "Path travesal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
