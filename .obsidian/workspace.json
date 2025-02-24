@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XSS/Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
+                "file": "XSS/Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stored XSS into anchor href attribute with double quotes HTML-encoded"
+              "title": "Reflected XSS into a JavaScript string with angle brackets HTML encoded"
             }
           }
         ],
@@ -219,8 +219,9 @@
   },
   "active": "913a406e480b9ede",
   "lastOpenFiles": [
-    "README.md",
     "XSS/Stored XSS into anchor href attribute with double quotes HTML-encoded.md",
+    "XSS/Reflected XSS into a JavaScript string with angle brackets HTML encoded.md",
+    "README.md",
     "XSS/Reflected XSS into attribute with angle brackets HTML-encoded.md",
     "XSS/DOM XSS in jQuery selector sink using a hashchange event.md",
     "XSS/DOM XSS in jQuery anchor href attribute sink using location.search source.md",
